@@ -6,3 +6,5 @@ When you click the button, it reappears at a different position.
 The title reads "You're bored | ..."
 
 I made this as a click speed training game for real games where you need to be fast and precise at repositioning the cursor.
+
+Don't overstrain your hands!
